@@ -1,7 +1,10 @@
 
 
 
+
 <h1 style="text-align:center">Dual Contouring Surface Extraction Algorithm</h1>
+
+
 <img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/DualContouring.png">
 
 This is an implementation of the dual contouring surface extraction algorithm running on GPU.
